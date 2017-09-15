@@ -1,0 +1,48 @@
+nav{
+     position: fixed;
+     background: aliceblue;
+     width: 15em;
+     top: 4em;
+
+
+   }
+  nav ul{
+    padding-left: 25px;
+  }
+img{
+    width: 250px;
+    border: 5px solid blue;
+    padding: 5px;
+  }
+article{
+         min-width: 20rem;
+         max-width: 50rem;
+         margin: auto;
+         margin-top: 4rem;
+       }
+ h1{
+   position: fixed;
+   width:100%;
+   background:#8f8fff;
+   text-align: center;
+   margin : 0;
+   top: 0;
+ }
+
+ table{
+   margin-left: 2em;
+   border-collapse: collapse;
+ }
+
+ tr{
+   border-bottom: 1px solid grey;
+ }
+
+ td.ingredient{
+   text-align: left;
+   padding-right: 2em;
+ }
+td.amount{
+  text-align: right;
+  padding-left: 2em;
+}
